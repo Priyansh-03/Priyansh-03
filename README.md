@@ -24,7 +24,6 @@
 - 👨‍💻 All of my projects are available at: [GitHub Repositories](https://github.com/Priyansh-03?tab=repositories)
 - 💬 Ask me about **AI, Apps, Automation, LLMs**
 - 📫 How to reach me: **priyansh.sriv03@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1YCrDrwGZy2eAeKh5GhDvH8a0oc9ALot0/view?usp=sharing)
 
 ---
 
