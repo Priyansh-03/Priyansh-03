@@ -4,7 +4,7 @@
 <p align="center"><i>Aspiring AI Engineer | Builder | Curious Mind</i></p>
 
 <p align="center">
-If you want to know how a toy works, break it — then fix it yourself 😉
+If you want to know how a toy works, break it — then fix it yourself and I am not talking about a toy 😉
 </p>
 
 ---
