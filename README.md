@@ -63,7 +63,7 @@ If you want to know how a toy works, break it — then fix it yourself 😉
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,mysql,linux,git,firebase,flutter" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,mysql,linux,git,firebase" />
 </p>
 
 ---
