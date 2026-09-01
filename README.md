@@ -44,7 +44,7 @@ If you want to know how a toy works, break it — then fix it yourself and I am 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/priyansh-sriv">
+  <a href="https://www.linkedin.com/in/priyansh-srivastava-aiml-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
